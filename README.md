@@ -1,10 +1,18 @@
+<!--
+ * @Author: Eleven-Ding 1559298665@qq.com
+ * @Date: 2022-05-04 10:19:49
+ * @LastEditors: Eleven-Ding 1559298665@qq.com
+ * @LastEditTime: 2022-05-05 15:47:05
+ * @FilePath: \blog-control-plus\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts1
 
-In the project directory, you can run:
+In the project directory, you can run:1
 
 ### `npm start`
 
